@@ -1,0 +1,8 @@
+crewai
+crewai-tools
+python-dotenv
+solana
+solders
+requests
+ccxt
+base58
